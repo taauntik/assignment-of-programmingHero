@@ -1,0 +1,200 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.orange {
+    color: tomato;
+}
+
+.ul1 {
+    list-style: none;
+    width: 379px;
+    margin-left: 61%;
+    margin-top: 33px;
+}
+
+.top-banner p {
+    color: #45433d;
+}
+
+.top-banner {
+    height: 500px;
+}
+
+.ul1 li {
+    float: left;
+    margin-left: 40px;
+}
+
+.container h2 {
+    font-size: 40px;
+}
+
+.container {
+    width: 33%;
+    float: left;
+    padding-left: 130px;
+}
+
+.pink {
+    color:#363958;
+}
+
+.container h1 {
+    font-size: 60px;
+}
+
+.container img {
+    width: 100%;
+}
+
+.chat-bar {
+
+}
+
+.container a {
+    text-decoration:none;
+    background: tomato;
+    color: white;
+    padding: 12px 42px;
+    border-radius: 4px;
+}
+
+.sec-banner {
+    height: 620px;
+}
+
+.pro-sec {
+    background: #F8F9FC;
+    height: 700px;
+}
+
+.span {
+    color: tomato;
+}
+
+.pro-sec h2 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.pro {
+    width: 28%;
+    margin: 1.5%;
+    float: left;
+    box-shadow: 10px 10px 40px #ECEDF0;
+    height: 70%;
+    border-radius: 15px;
+    background:#FFFFFF;
+}
+
+.pro img {
+    width: 90%;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.div1 {
+    margin-left: 90px;
+}
+
+.text-wrapper {
+    margin: 0px 20px 0px 30px;
+}
+
+.text-wrapper p{
+    color: gray;
+}
+
+.box {
+    text-align:center;
+    width: 20%;
+    float: left;
+    margin: 2.5%;
+    text-align: center;
+    background: #FFFFFF;
+    height: 40%;
+    box-shadow: 10px 10px 40px #ECEDF0;
+}
+
+.works {
+    height: 600px;
+    background:#F8F9FC;
+    text-align: center;
+}
+
+.works h2 {
+    font-size: 30px;
+    padding: 50px 0px;
+}
+
+.box p {
+    color: gray;
+}
+
+.icon {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.chat img {
+    width: 100%;
+}
+
+.chat {
+    position: relative;
+    text-align: center;
+    width: 63%;
+    margin: 10% 0% 6% 20%;
+}
+
+.h2 h2 {
+    font-size: 40px;
+}
+
+.h2 {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    color: white;
+}
+
+.link {
+    position: absolute;
+    top: 46%;
+    left: 78%;
+}
+
+.link a {
+    text-decoration: none;
+    background: tomato;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+}
+
+h4 {
+    color: dimgray;
+    padding-top: 20px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contact img {
+    width: 3%;
+    margin-left: 15px;
+}
+
+.chat-bar {
+    height: 530px;
+}
