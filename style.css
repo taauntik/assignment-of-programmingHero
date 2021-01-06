@@ -3,6 +3,10 @@ body {
     margin: 0px;
 }
 
+header {
+    height: 100px;
+}
+
 .orange {
     color: tomato;
 }
@@ -19,7 +23,7 @@ body {
 }
 
 .top-banner {
-    height: 500px;
+    height: 600px;
 }
 
 .ul1 li {
